@@ -10,9 +10,11 @@
 - Provides mathematical and statistical functions.
 - Useful for data analysis and scientific computing.
   
-## Common functions
+## How to import Numpy
 
 import numpy as np
+
+## Common functions
 
 np.array()
 np.mean()
@@ -21,6 +23,8 @@ np.std()
 np.var()
 np.random
 np.reshape()
+np.concatenate()
+np.split()
 
 # Pandas
 
@@ -34,12 +38,21 @@ np.reshape()
 - Helps with missing values, duplicates, filtering, grouping, and sorting.
 - Very commonly used in Data Analytics.
 
-## Common functions:
+## How to import pandas
  
-import pandas as pd
+- import pandas as pd
 
-pd.Series()
-pd.DataFrame()
+## Datastructures:
+
+- Series and DataFrame are the two main data structures in Pandas.
+
+- Series → 1-dimensional data structure (one column)
+- DataFrame → 2-dimensional data structure (rows and columns)
+  
+ pd.Series()
+ pd.DataFrame()
+
+## Common Functions
 
 .head()
 .tail()
@@ -53,5 +66,3 @@ pd.DataFrame()
 .value_counts()
 .unique()
 
-np.concatenate()
-np.split()
