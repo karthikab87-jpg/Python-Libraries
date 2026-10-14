@@ -73,10 +73,10 @@ np.split()
 .value_counts()
 .unique()
 
-# Assignment1:Data Analysis using Numpy and Pandas
-# Assignment2:Data Visualization
+### Assignment1:Data Analysis using Numpy and Pandas
+### Assignment2:Data Visualization
 
-# Data Visualization
+## Data Visualization
 
 ### Data visualization is the process of representing data in a visual form, such as charts, graphs, and plots, to understand data easily.
 
