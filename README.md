@@ -99,10 +99,10 @@ np.split()
 ### Line chart
 - Show trends over time
 ### Scatter plot
-	- Examine relationships between two numerical variables
+-  Examine relationships between two numerical variables
 ### Pie chart
--Show proportions
-###Box plot
+- Show proportions
+### Box plot
 -Understand spread and potential outliers
 ### Heatmap
 - Represent values or correlations using colours
