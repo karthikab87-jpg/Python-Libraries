@@ -1,3 +1,7 @@
+# Python libraries, Data Visualization & Data Analysis
+
+## Libraries using in Python
+
 # NumPy
 
  NumPy (Numerical Python) is a Python library mainly used for numerical and mathematical operations.
@@ -52,6 +56,9 @@ np.split()
  pd.Series()
  pd.DataFrame()
 
+ ## Matplotlib: Used to create charts and graphs.
+ ## Seaborn: Used to create statistical visualizations with attractive styles.
+
 ## Common Functions
 
 .head()
@@ -66,3 +73,40 @@ np.split()
 .value_counts()
 .unique()
 
+# Assignment1:Data Analysis using Numpy and Pandas
+# Assignment2:Data Visualization
+
+# Data Visualization
+
+### Data visualization is the process of representing data in a visual form, such as charts, graphs, and plots, to understand data easily.
+
+## Importance of Data Visualization
+
+- Helps us understand data quickly.
+- Identifies patterns and trends.
+- Helps detect outliers.
+- Makes it easier to compare data.
+- Supports better decision-making.
+
+## Different Charts for plotting
+
+### Bar chart
+- Compare values between categories
+### Count plot
+- Count observations in categories
+### Histogram
+-	Understand numerical distributions
+### Line chart
+- Show trends over time
+### Scatter plot
+	- Examine relationships between two numerical variables
+### Pie chart
+-Show proportions
+###Box plot
+-Understand spread and potential outliers
+### Heatmap
+- Represent values or correlations using colours
+### Pair plot
+- Explore relationships among multiple variables
+### Violin plot
+- Explore distributions and density across categories
