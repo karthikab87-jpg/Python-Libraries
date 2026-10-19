@@ -5,8 +5,11 @@ As part of my Data Analytics course, this repository covered Python libraries, d
 ## Python Libraries
 
  NumPy – Numerical operations and calculations.
+ 
  Pandas – Data cleaning, handling missing values, and data analysis.
+ 
  Matplotlib – Creating charts and plots for data visualization.
+ 
  Seaborn – Creating statistical visualizations such as box plots, heatmaps, and count plots.
 
 ### NumPy
@@ -49,7 +52,7 @@ np.split()
 - Helps with missing values, duplicates, filtering, grouping, and sorting.
 - Very commonly used in Data Analytics.
 
-### How to import pandas:import pandas as pd
+### How to import pandas: import pandas as pd
 
 ## Datastructures in pandas:
 
@@ -62,7 +65,7 @@ np.split()
 
  Matplotlib is a Python data visualization library used to create charts and graphs. It provides detailed control over titles, labels,     colors, axes, and chart formatting.
  
-### How to import matplotlib:import matplotlib.pyplot as plt
+### How to import matplotlib: import matplotlib.pyplot as plt
 
 ### Common Matplotlib chart types:
 
@@ -92,9 +95,13 @@ Seaborn is a Python statistical visualization library built on Matplotlib. It ma
 
 Data analysis using Python involves collecting, cleaning, exploring, and analyzing data to identify patterns, trends, and meaningful insights. Libraries such as Pandas and NumPy help process data, while Matplotlib and Seaborn help visualize the results for better understanding and decision-making.   
 
-## Assignment1:Data Analysis using Numpy and Pandas
-## Assignment2:Data Visualization:Data visualization is the process of representing data in a visual form, such as charts, graphs, and plots, to understand data easily.
-## Module End Assignment:Python for DataAnalysis
+### Assignments that covered in this session 
+
+- Assignment1:Data Analysis using Numpy and Pandas
+
+- Assignment2:Data Visualization: Data visualization is the process of representing data in a visual form, such as charts, graphs, and       plots, to understand data easily.
+
+- Module End Assignment:Python for DataAnalysis
 
 ### Project Title:Social Media Engagement Analytics
 
